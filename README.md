@@ -1,3 +1,3 @@
 # vbhv_trial
-Learning Git and Github
-Author -Vaibhav Verma
+Learning Git and Github || 
+Author - Vaibhav Verma
